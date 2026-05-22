@@ -1,0 +1,12 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js HTTP server using built-in http and fs modules",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "license": "MIT"
+}
